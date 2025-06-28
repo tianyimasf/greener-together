@@ -21,13 +21,13 @@
 - **Key Libraries**: Google Maps, Image Picker, Location Services
 
 ### Backend - API Server
-- **Technology**: Python FastAPI, torchvision, resnet18
+- **Technology**: Python FastAPI
 - **Cloud Services**: Google Cloud Storage, AWS RD2, EC2
 - **Database**: Postgresql, pgAdmin, sqlalchemy
-- **Data**: Tree census data with CO2 metrics
 
 ### AI Model Development
 - **Library**: torchvision, resnet18
+- **Data**: Tree census data with CO2 metrics
 
 ## 🚀 Quick Start
 
