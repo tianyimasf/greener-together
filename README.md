@@ -2,14 +2,14 @@
 
 ## 📱 About the App
 
-**Greener Together** is an AI-backed NYC tree map that allows user to plan the greenest route and update tree data with pictures of individual trees. 
+**Greener Together** is an AI-backed NYC tree map that allows user to plan the greenest route and update tree data with pictures of individual tree. 
 
 ## 📌 Core Features
 - **Interactive Tree Map** - Explore 46,000+ trees with detailed environmental data
 - **Streeview Photo Upload** - Contribute photos of trees to build a visual database
 - **Environmental Impact Display** - View CO2 absorption and environmental metrics for each tree
 - **Near-real-time Data** - Live updates and community contributions
-- 📱 **Only on Mobile!** - Works on iOS, Android
+- 📱 **Only on Mobile!** - Works on Android and iOS
 
 ![Greener Together App Screenshot](app.webp)
 
