@@ -5,10 +5,10 @@
 **Greener Together** is a citizen science platform for urban forestry that combines mapping technology with community-driven data collection to promote environmental awareness and tree conservation efforts.
 
 ## 📌 Core Features
-- 🗺️ **Interactive Tree Map** - Explore 46,000+ trees with detailed environmental data
-- 📸 **Streeview Photo Upload** - Contribute photos of trees to build a visual database
-- 🌍 **Environmental Impact Display** - View CO2 absorption and environmental metrics for each tree
-- 📊 **Near-real-time Data** - Live updates and community contributions
+- **Interactive Tree Map** - Explore 46,000+ trees with detailed environmental data
+- **Streeview Photo Upload** - Contribute photos of trees to build a visual database
+- **Environmental Impact Display** - View CO2 absorption and environmental metrics for each tree
+- **Near-real-time Data** - Live updates and community contributions
 - 📱 **Only on Mobile!** - Works on iOS, Android
 
 ![Greener Together App Screenshot](app.webp)
