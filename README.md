@@ -15,26 +15,19 @@
 
 ## 🏗️ Architecture
 
-```
-ai-tinkerer-greener-together/
-├── frontend/           # Expo frontend
-├── backend/            # FastAPI server
-├── model/              # AI model development files
-├── app.webp
-├── package-lock.json
-└── README.md           # This file
-```
-
-### Frontend - Mobile App (`/greener`)
+### Frontend - Mobile App
 - **Technology**: React Native with Expo
 - **Platform Support**: iOS, Android
 - **Key Libraries**: Google Maps, Image Picker, Location Services
 
-### Backend - API Server (`/backend`)
+### Backend - API Server
 - **Technology**: Python FastAPI, torchvision, resnet18
 - **Cloud Services**: Google Cloud Storage, AWS RD2, EC2
 - **Database**: Postgresql, pgAdmin, sqlalchemy
 - **Data**: Tree census data with CO2 metrics
+
+### AI Model Development
+- **Library**: torchvision, resnet18
 
 ## 🚀 Quick Start
 
