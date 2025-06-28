@@ -25,7 +25,7 @@
 - **Cloud Services**: Google Cloud Storage, AWS RD2, EC2
 - **Database**: Postgresql, pgAdmin, sqlalchemy
 
-### AI Model Development
+### Model - AI Model Development
 - **Library**: torchvision, resnet18
 - **Data**: Tree census data with CO2 metrics
 
