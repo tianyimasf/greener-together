@@ -2,7 +2,7 @@
 
 ## 📱 About the App
 
-**Greener Together** is a citizen science platform for urban forestry that combines mapping technology with community-driven data collection to promote environmental awareness and tree conservation efforts.
+**Greener Together** is an AI-backed NYC tree map that allows user to plan the greenest route and update tree data with pictures of individual trees. 
 
 ## 📌 Core Features
 - **Interactive Tree Map** - Explore 46,000+ trees with detailed environmental data
